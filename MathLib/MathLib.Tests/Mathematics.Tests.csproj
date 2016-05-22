@@ -78,8 +78,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Mathematics.csproj">
-      <Project>{55A5A18A-77F4-44C6-B8BE-ACC831B8F130}</Project>
+    <ProjectReference Include="..\MathLib\Mathematics.csproj">
+      <Project>{55a5a18a-77f4-44c6-b8be-acc831b8f130}</Project>
       <Name>Mathematics</Name>
     </ProjectReference>
   </ItemGroup>
