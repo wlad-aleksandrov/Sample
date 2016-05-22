@@ -117,6 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Err_FactorialAlgorithmNotSupported" xml:space="preserve">
+    <value>Factorial Algorithm {0} not supported.</value>
+    <comment>{0} - factorial algorithm</comment>
+  </data>
   <data name="Err_FactorialForNegativeIntegersNotDefined" xml:space="preserve">
     <value>Factorial for negative integers is not defined</value>
   </data>

@@ -61,6 +61,15 @@ namespace WA.Mathematics.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Factorial Algorithm {0} not supported..
+        /// </summary>
+        internal static string Err_FactorialAlgorithmNotSupported {
+            get {
+                return ResourceManager.GetString("Err_FactorialAlgorithmNotSupported", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Factorial for negative integers is not defined.
         /// </summary>
         internal static string Err_FactorialForNegativeIntegersNotDefined {
